@@ -1,5 +1,5 @@
 ## Academic knowledge
-- Programming: Clean Code, Code Quality
+- Programming: [Clean Code](https://github.com/jexembayeva/useful-resources/blob/master/clean-code.md), Code Quality
   - Programming: Secure code
 - OOP (concept, basic principles)
   - OOP advanced Patterns and Practices
