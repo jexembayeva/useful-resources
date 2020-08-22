@@ -5,7 +5,10 @@
   - OOP advanced Patterns and Practices
   - OOP SOLID principles
   - [OOP in JS](https://tproger.ru/translations/oop-js-fundamentals/)
-- Functional programming
+- [Functional programming](https://tproger.ru/translations/functional-programming-concepts/)
+- [Функциональное программирование для всех](https://habr.com/ru/post/142351/)
+- [Функциональное программирование: дурацкая игрушка, которая убивает производительность труда](https://habr.com/ru/company/ruvds/blog/462483/)
+- [Функциональное программирование](https://geekbrains.ru/posts/functional_programming)
 ## Architecture and Design
 - GoF Design Patterns (Singleton, Factory etc)
 - Enterprise Application Patterns
