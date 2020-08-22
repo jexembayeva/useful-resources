@@ -4,6 +4,7 @@
 - OOP (concept, basic principles)
   - OOP advanced Patterns and Practices
   - OOP SOLID principles
+  - [OOP in JS](https://tproger.ru/translations/oop-js-fundamentals/)
 - Functional programming
 ## Architecture and Design
 - GoF Design Patterns (Singleton, Factory etc)
